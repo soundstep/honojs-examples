@@ -1,6 +1,6 @@
 # deno-hono-vite-jsx
 
-I started from this repo: <https://github.com/MathurAditya724/deno-vite-hono-jsx>
+I started from this one: <https://github.com/MathurAditya724/honojs-examples/tree/main/deno>
 
 ## Requirements
 
